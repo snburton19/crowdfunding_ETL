@@ -4,7 +4,7 @@
 ## Overview of Project
 For Module 8, Python and PostgreSQL were used to extract, transform, clean, load, and analyze data. Independent Funding, a crowdfunding platform for financing independent projects, provided a multi-worksheet excel file containing information on their campaigns and contact information along with a CSV file with data on their campaign backers. Using Python in conjunction with Jupyter Notebook, the data was extracted, cleaned, and used to create dataframes before being exported as CSV files. These files were then loaded into PostgreSQL for further analysis of the tables.
 
-## Method
+## Method & Results
 ### Extract Data
 * The data within the original backer_info.csv file was extracted twice to demonstrate proficiency with both Python dictionary methods and regular expressions.
   * Dictionary Methods
